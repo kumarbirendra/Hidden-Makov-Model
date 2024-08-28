@@ -22,6 +22,8 @@ The efficiency of the HMM model was compared against LSTM, ARIMA, and RNN models
 | **RMSE**| 0.8536                 | 0.8447                  | 0.8321                |
 | **CSPE**| 0.999998               | 0.999998                | 0.999998              |
 
+![Results Comparison](https://github.com/Nikhil-Kumar-Patel/Hidden-Makov-Model/blob/main/result.png)
+
 ## Conclusion
 
 The Hidden Markov Model (HMM) demonstrated strong performance compared to LSTM, ARIMA, and RNN, particularly in cumulative error metrics like CSPE. This indicates that HMM is effective in capturing long-term trends in stock prices, making it a viable model for forecasting in financial markets.
