@@ -10,17 +10,15 @@ The efficiency of the HMM model was compared against LSTM, ARIMA, and RNN models
 - **AAE**: Average Absolute Error
 - **ARPE**: Average Relative Percentage Error
 - **RMSE**: Root Mean Squared Error
-- **CSPE**: Cumulative Squared Prediction Error
 
 ### Efficiency Comparison
 
 | Metric  | HMM vs LSTM Efficiency | HMM vs ARIMA Efficiency | HMM vs RNN Efficiency |
 |---------|------------------------|-------------------------|-----------------------|
-| **APE** | 0.8989                 | 0.8716                  | 0.8525                |
-| **AAE** | 0.8793                 | 0.8631                  | 0.8515                |
-| **ARPE**| 0.8989                 | 0.8716                  | 0.8525                |
-| **RMSE**| 0.8536                 | 0.8447                  | 0.8321                |
-| **CSPE**| 0.999998               | 0.999998                | 0.999998              |
+| **APE** | 0.8780                 | 0.3284                  | 0.8374                |
+| **AAE** | 0.8780                 | 0.3284                  | 0.8374                |
+| **ARPE**| 0.8780                 | 0.3284                  | 0.8374                |
+| **RMSE**| 0.8490                 | 0.3076                  | 0.8293                |
 
 ![Results Comparison](https://github.com/Nikhil-Kumar-Patel/Hidden-Makov-Model/blob/main/result.png)
 
