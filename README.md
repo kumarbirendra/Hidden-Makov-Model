@@ -20,7 +20,7 @@ The efficiency of the HMM model was compared against LSTM, ARIMA, and RNN models
 | **ARPE**| 0.8780                 | 0.3284                  | 0.8374                |
 | **RMSE**| 0.8490                 | 0.3076                  | 0.8293                |
 
-![Results Comparison](https://github.com/Nikhil-Kumar-Patel/Hidden-Makov-Model/blob/main/result.png)
+![Results Comparison](https://github.com/Nikhil-Kumar-Patel/Hidden-Makov-Model/blob/main/output.png)
 
 ## Conclusion
 
